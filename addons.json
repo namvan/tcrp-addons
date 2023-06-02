@@ -1361,7 +1361,8 @@
     "ds3622xsp_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/broadwellnk.json",
     "ds1019p_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/apollolake.json",
     "ds923p_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json",
-    "ds723p_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json"
+    "ds723p_42962": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/r1000.json",
+    "ds918p_64561": "https://raw.githubusercontent.com/pocopico/tcrp-addons/main/virtio/recipes/apollolake.json"
   }
 }
 {
